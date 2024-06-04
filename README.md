@@ -1,3 +1,5 @@
+![unit test coverage badge](https://github.com/GarrettKucinski/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+
 # learn-cicd-starter (Notely)
 
 ![unit test coverage badge](https://github.com/GarrettKucinski/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
